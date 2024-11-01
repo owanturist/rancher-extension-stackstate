@@ -2,10 +2,9 @@ name: Checks
 
 on:
   pull_request:
-    paths:
-      - ".changeset/**"
     paths-ignore:
-      - "**.md"
+      - "*.md"
+      - "pkg/**/*.md"
 
   push:
     branches:
