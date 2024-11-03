@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.3
+
+### Patch Changes
+
+- b84f5cb: Use 2.8 for build-extension-charts
+
 ## 0.2.2
 
 ### Patch Changes
