@@ -91,7 +91,7 @@ jobs:
               exit 1
             fi
 
-            MESSAGE=$(jq -r '.releases[0] as $pkg | if $pkg then "🚀 Bumping `\($pkg.name)@\($pkg.oldVersion) → \($pkg.newVersion)`" else "Publishing release..." end' "$OUTPUT")
+            MESSAGE=$(jq -r '.releases[0] as $pkg | if $pkg then "🚀 Release `\($pkg.name)@\($pkg.oldVersion) → \($pkg.newVersion)`" else "Publishing release..." end' "$OUTPUT")
 
             echo "message=$MESSAGE" >> $GITHUB_OUTPUT
           fi
