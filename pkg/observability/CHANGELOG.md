@@ -1,5 +1,12 @@
 # observability
 
+## 0.2.5
+
+### Patch Changes
+
+- 1130c96: Add on.release.types created
+- 16a7f71: Delete published release type
+
 ## 0.2.4
 
 ### Patch Changes
