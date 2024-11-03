@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.10
+
+### Patch Changes
+
+- 8730d3c: Capture the output in a variable
+
 ## 0.2.9
 
 ### Patch Changes
