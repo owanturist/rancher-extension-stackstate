@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.4
+
+### Patch Changes
+
+- a61e4eb: Add on.release.types=published
+
 ## 0.2.3
 
 ### Patch Changes
