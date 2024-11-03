@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.8
+
+### Patch Changes
+
+- 015aed8: Pass GITHUB_TOKEN to the publish action
+
 ## 0.2.7
 
 ### Patch Changes
