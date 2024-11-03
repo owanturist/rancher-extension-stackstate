@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.7
+
+### Patch Changes
+
+- b081409: Trigger release
+
 ## 0.2.6
 
 ### Patch Changes
