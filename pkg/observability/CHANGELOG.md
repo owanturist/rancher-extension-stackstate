@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.11
+
+### Patch Changes
+
+- 3ec0213: Use echo to forward JSON content
+
 ## 0.2.10
 
 ### Patch Changes
