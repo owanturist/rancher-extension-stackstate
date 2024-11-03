@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.9
+
+### Patch Changes
+
+- 761621d: Extract tagged_release from changeset.output
+
 ## 0.2.8
 
 ### Patch Changes
