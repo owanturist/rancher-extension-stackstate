@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.17
+
+### Patch Changes
+
+- e5ab57a: Add missing shell prop
+
 ## 0.2.16
 
 ### Patch Changes
