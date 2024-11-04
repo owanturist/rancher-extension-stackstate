@@ -1,5 +1,12 @@
 # observability
 
+## 0.2.27
+
+### Patch Changes
+
+- a5d2bcd: Split Read Changesets Config step
+- 0cc8675: Delete repository owner check
+
 ## 0.2.26
 
 ### Patch Changes
