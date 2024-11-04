@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.15
+
+### Patch Changes
+
+- 087f2b7: Add more job permissions
+
 ## 0.2.14
 
 ### Patch Changes
