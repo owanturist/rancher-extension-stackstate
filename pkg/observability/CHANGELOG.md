@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.26
+
+### Patch Changes
+
+- f86a945: Configure git user
+
 ## 0.2.25
 
 ### Patch Changes
