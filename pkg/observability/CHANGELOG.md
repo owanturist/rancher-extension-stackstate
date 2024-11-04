@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.16
+
+### Patch Changes
+
+- 5397afb: Move generated files to the root
+
 ## 0.2.15
 
 ### Patch Changes
