@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.29
+
+### Patch Changes
+
+- 3c578b8: Split build job from checks
+
 ## 0.2.28
 
 ### Patch Changes
