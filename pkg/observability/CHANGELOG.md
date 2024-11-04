@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.24
+
+### Patch Changes
+
+- 8bb385c: Delete invalid job step
+
 ## 0.2.23
 
 ### Patch Changes
