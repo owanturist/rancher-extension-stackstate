@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.19
+
+### Patch Changes
+
+- 2d5e3c4: Print git status before commit
+
 ## 0.2.18
 
 ### Patch Changes
