@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.12
+
+### Patch Changes
+
+- e5e140a: Duplicate release tags
+
 ## 0.2.11
 
 ### Patch Changes
