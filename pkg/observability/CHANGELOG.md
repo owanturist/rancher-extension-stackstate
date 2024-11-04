@@ -1,5 +1,12 @@
 # observability
 
+## 0.2.23
+
+### Patch Changes
+
+- 7dc2039: Delete fetch-depth: 0
+- 47182a8: Convert publish action to a checks job
+
 ## 0.2.22
 
 ### Patch Changes
