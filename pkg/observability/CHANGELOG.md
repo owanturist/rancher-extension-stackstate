@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.20
+
+### Patch Changes
+
+- e6b69fd: Move the artifacts before checkout
+
 ## 0.2.19
 
 ### Patch Changes
