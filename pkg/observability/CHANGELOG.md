@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.25
+
+### Patch Changes
+
+- 24d669d: Use fetch-depth: 0 again
+
 ## 0.2.24
 
 ### Patch Changes
