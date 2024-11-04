@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.28
+
+### Patch Changes
+
+- 04cb0a3: A minor change
+
 ## 0.2.27
 
 ### Patch Changes
