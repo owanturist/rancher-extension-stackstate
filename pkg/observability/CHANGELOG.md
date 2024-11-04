@@ -1,5 +1,12 @@
 # observability
 
+## 0.2.21
+
+### Patch Changes
+
+- c84a15f: Improve publish/action.yml
+- 1bed90a: Fix move to mv
+
 ## 0.2.20
 
 ### Patch Changes
