@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.22
+
+### Patch Changes
+
+- 09dacf7: Use rsync instead of mv
+
 ## 0.2.21
 
 ### Patch Changes
