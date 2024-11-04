@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.14
+
+### Patch Changes
+
+- fbca777: Define tagged_release as `name-version`
+
 ## 0.2.13
 
 ### Patch Changes
