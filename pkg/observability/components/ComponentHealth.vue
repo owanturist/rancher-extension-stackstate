@@ -1,29 +1,33 @@
 <script>
-import { mapGetters } from 'vuex';
-import { isCrdLoaded, loadComponent, loadStackStateSettings } from '../modules/stackstate';
-import { buildUrn } from '../modules/urn';
-import { isStackStateObserved } from '../modules/observed';
-import { HEALTH_STATE_TYPES } from '../types/types';
-import HealthState from './Health/HealthState.vue';
+import { mapGetters } from "vuex";
+import {
+  isCrdLoaded,
+  loadComponent,
+  loadStackStateSettings,
+} from "../modules/stackstate";
+import { buildUrn } from "../modules/urn";
+import { isStackStateObserved } from "../modules/observed";
+import { HEALTH_STATE_TYPES } from "../types/types";
+import HealthState from "./Health/HealthState.vue";
 
 export default {
-  name:       'ComponentHealth',
+  name: "ComponentHealth",
   components: { HealthState },
-  props:      {
+  props: {
     resource: {
-      type:     Object,
+      type: Object,
       required: true,
-    }
+    },
   },
   data() {
     return {
       observed: false,
-      health:   HEALTH_STATE_TYPES.UNKNOWN,
-      urn:      '',
+      health: HEALTH_STATE_TYPES.UNKNOWN,
+      urn: "",
     };
   },
   computed: {
-    ...mapGetters(['currentCluster']),
+    ...mapGetters(["currentCluster"]),
 
     clusterId() {
       return this.currentCluster?.id;
