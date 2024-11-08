@@ -1,5 +1,11 @@
 # observability
 
+## 0.3.0
+
+### Minor Changes
+
+- ba5722a: Introduce minor
+
 ## 0.2.1
 
 ### Patch Changes

@@ -1,5 +1,0 @@
----
-"observability": minor
----
-
-Introduce minor
