@@ -1,5 +1,0 @@
----
-"observability": minor
----
-
-Minor change
