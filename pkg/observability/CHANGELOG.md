@@ -1,5 +1,11 @@
 # observability
 
+## 0.2.31
+
+### Patch Changes
+
+- 1fd8dd7: Use publihsedPackages for tagged_release
+
 ## 0.2.30
 
 ### Patch Changes
