@@ -1,5 +1,15 @@
 # observability
 
+## 2.1.0
+
+### Minor Changes
+
+- 4e9edb6: bal bal
+
+### Patch Changes
+
+- 5aa2df0: Lets put some meaningful description here.
+
 ## 2.0.1
 
 ### Patch Changes
