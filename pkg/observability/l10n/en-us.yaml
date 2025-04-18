@@ -16,7 +16,7 @@ components:
     noMonitors: "No monitors found for this component."
     state: State
     monitor: Monitor
-    lastUpdate: Last update
+    lastUpdate: Last update from the year
   observedCard:
 
 observability:
@@ -45,12 +45,12 @@ observability:
     saveSuccess: Configuration saved successfully!
   clusterCard:
     clusterIs: Cluster is
-    notObservedPrepend: 'Cluster is not observed by SUSE Observability. Please '
-    notObservedInstall: 'install'
-    notObservedPostpend: 'the agent'
+    notObservedPrepend: "Cluster is not observed by SUSE Observability. Please "
+    notObservedInstall: "install"
+    notObservedPostpend: "the agent"
     connecting: "Connecting to SUSE Observability Plane..."
-    notConnectedPrepend: 'SUSE Observability has not been configured, please go to the'
-    notConnectedObservability: 'SUSE Observability Configuration.'
+    notConnectedPrepend: "SUSE Observability has not been configured, please go to the"
+    notConnectedObservability: "SUSE Observability Configuration."
     clusterHealth: "Cluster health:"
     componentsHealth: "Components health:"
     deviating: "Deviating:"
